@@ -1,0 +1,4 @@
+# ML-Quant-Finance
+Authors: BERRADA Youssef, CASSARD Michel, WANG Yijie
+
+In this project, we design, test, validate and implement a deep learning trading strategy for currency market portfolio allocation. Specifically, we implement two modified Neural Network models: CNN and RNN (LSTM) to predict foreign exchange market price movements and use a Markowitz portfolio optimization to construct our portfolio. We compare the results with other conventional market strategies, such as an  equal-weighted portfolio. Even though our strategy is not able to generate positive returns, the framework builds ground for further research. This project is the first milestone of a larger project  to build a reinforcement learning framework for portfolio allocation using our existing model for price prediction. 
